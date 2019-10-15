@@ -13,3 +13,4 @@ if count>uncount:
     print("READY FOR BATTLE")
 else:
     print("NOT READY")
+    
